@@ -1,7 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/terenially/FIT3179/main/FIT3179_Assignment_2/data/global-data-on-sustainable-energy.csv"},
-    "width" : 300,
     "transform": [
         {
           "filter": {
